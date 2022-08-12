@@ -1,6 +1,7 @@
 ## Bem vindo! Eu sou a Jaqueline! 👋
 
-- 🌱 Participante do programa Entra21 Python
+- 🌱 Participante do Entra21 - Programa de formação em programação Python ( Git | Github | Metodologias Ágeis(Trello, Scrum, Kanban) | SQL | DJango | JS | CSS | PHP)
+     
 - ⚡ Graduada em Sistemas de Informações
 
 <div>
